@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
-  "pck_url": "https://raw.githubusercontent.com/Aaron-Serpytis/Game-Updates/main/patch_v1.1.pck",
-  "notes": "Added the ability to update the game without needing a whole new executable file. The first of many updates!"
+  "version": 1.2,
+  "pck_url": "https://raw.githubusercontent.com/Aaron-Serpytis/Game-Updates/main/patch_v1.2.pck",
+  "notes": "Added a basic pre-game launcher to actually check for updates. The first of many updates!"
 }
