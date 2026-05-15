@@ -1,6 +1,6 @@
 
 {
-  "version": 1.4,
+  "version": 1.5,
   "pck_url": "https://raw.githubusercontent.com/Aaron-Serpytis/Game-Updates/main/patch_v1.4.pck",
   "notes": "Added a basic pre-game launcher to actually check for updates. The first of many future updates!"
 }
