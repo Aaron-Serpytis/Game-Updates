@@ -1,6 +1,6 @@
 {
-  "version_code": 161,
-  "version_name": "1.6.1",
-  "pck_url": "https://raw.githubusercontent.com/Aaron-Serpytis/Game-Updates/main/patch_v1.6.1.pck",
-  "notes": "Added a basic pre-game launcher to actually check for updates. Versioning system cleaned and updated!"
+  "version_code": 162,
+  "version_name": "1.6.2",
+  "pck_url": "https://raw.githubusercontent.com/Aaron-Serpytis/Game-Updates/main/patch_v1.6.2.pck",
+  "notes": "Linux is the only viable OS, Luke can agree."
 }
